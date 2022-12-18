@@ -1,0 +1,44 @@
+C:\Users\Cecilia\Desktop\NHBA_PBMC_T3_MétNúm\NHBA_PBMC_T3_MétNúm\bin\Debug\NHBA_PBMC_T3_MétNúm.exe.config
+C:\Users\Cecilia\Desktop\NHBA_PBMC_T3_MétNúm\NHBA_PBMC_T3_MétNúm\bin\Debug\NHBA_PBMC_T3_MétNúm.exe
+C:\Users\Cecilia\Desktop\NHBA_PBMC_T3_MétNúm\NHBA_PBMC_T3_MétNúm\bin\Debug\NHBA_PBMC_T3_MétNúm.pdb
+C:\Users\Cecilia\Desktop\NHBA_PBMC_T3_MétNúm\NHBA_PBMC_T3_MétNúm\obj\Debug\NHBA_PBMC_T3_MétNúm.csproj.AssemblyReference.cache
+C:\Users\Cecilia\Desktop\NHBA_PBMC_T3_MétNúm\NHBA_PBMC_T3_MétNúm\obj\Debug\NHBA_PBMC_T3_MétNúm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cecilia\Desktop\NHBA_PBMC_T3_MétNúm\NHBA_PBMC_T3_MétNúm\obj\Debug\NHBA_PBMC_T3_MétNúm.Properties.Resources.resources
+C:\Users\Cecilia\Desktop\NHBA_PBMC_T3_MétNúm\NHBA_PBMC_T3_MétNúm\obj\Debug\NHBA_PBMC_T3_MétNúm.csproj.GenerateResource.cache
+C:\Users\Cecilia\Desktop\NHBA_PBMC_T3_MétNúm\NHBA_PBMC_T3_MétNúm\obj\Debug\NHBA_PBMC_T3_MétNúm.csproj.CoreCompileInputs.cache
+C:\Users\Cecilia\Desktop\NHBA_PBMC_T3_MétNúm\NHBA_PBMC_T3_MétNúm\obj\Debug\NHBA_PBMC_T3_MétNúm.exe
+C:\Users\Cecilia\Desktop\NHBA_PBMC_T3_MétNúm\NHBA_PBMC_T3_MétNúm\obj\Debug\NHBA_PBMC_T3_MétNúm.pdb
+C:\Users\Cecilia\Desktop\NHBA_PBMC_T3_MétNúm\NHBA_PBMC_T3_MétNúm\obj\Debug\NHBA_PBMC_T3_MétNúm.NR.resources
+C:\Users\Cecilia\Desktop\NHBA_PBMC_T3_MétNúm\NHBA_PBMC_T3_MétNúm\obj\Debug\NHBA_PBMC_T3_MétNúm.MC.resources
+C:\Users\Cecilia\Desktop\NHBA_PBMC_T3_MétNúm\NHBA_PBMC_T3_MétNúm\obj\Debug\NHBA_PBMC_T3_MétNúm.BS.resources
+C:\Users\Cecilia\Desktop\NHBA_PBMC_T3_MétNúm\NHBA_PBMC_T3_MétNúm\obj\Debug\NHBA_PBMC_T3_MétNúm.LG.resources
+C:\Users\Cecilia\Desktop\NHBA_PBMC_T3_MétNúm\NHBA_PBMC_T3_MétNúm\obj\Debug\NHBA_PBMC_T3_MétNúm.RG.resources
+C:\Users\donya\Downloads\NHBA_PBMC_T3_MétNúm (2)\NHBA_PBMC_T3_MétNúm\NHBA_PBMC_T3_MétNúm\obj\Debug\NHBA_PBMC_T3_MétNúm.csproj.AssemblyReference.cache
+C:\Users\donya\Downloads\NHBA_PBMC_T3_MétNúm (2)\NHBA_PBMC_T3_MétNúm\NHBA_PBMC_T3_MétNúm\obj\Debug\NHBA_PBMC_T3_MétNúm.exe
+C:\Users\donya\Downloads\NHBA_PBMC_T3_MétNúm (2)\NHBA_PBMC_T3_MétNúm\NHBA_PBMC_T3_MétNúm\obj\Debug\NHBA_PBMC_T3_MétNúm.pdb
+C:\Users\donya\Downloads\NHBA_PBMC_T3_MétNúm (2)\NHBA_PBMC_T3_MétNúm\NHBA_PBMC_T3_MétNúm\bin\Debug\NHBA_PBMC_T3_MétNúm.exe.config
+C:\Users\donya\Downloads\NHBA_PBMC_T3_MétNúm (2)\NHBA_PBMC_T3_MétNúm\NHBA_PBMC_T3_MétNúm\bin\Debug\NHBA_PBMC_T3_MétNúm.exe
+C:\Users\donya\Downloads\NHBA_PBMC_T3_MétNúm (2)\NHBA_PBMC_T3_MétNúm\NHBA_PBMC_T3_MétNúm\bin\Debug\NHBA_PBMC_T3_MétNúm.pdb
+C:\Users\donya\Downloads\NHBA_PBMC_T3_MétNúm (2)\NHBA_PBMC_T3_MétNúm\NHBA_PBMC_T3_MétNúm\obj\Debug\NHBA_PBMC_T3_MétNúm.BS.resources
+C:\Users\donya\Downloads\NHBA_PBMC_T3_MétNúm (2)\NHBA_PBMC_T3_MétNúm\NHBA_PBMC_T3_MétNúm\obj\Debug\NHBA_PBMC_T3_MétNúm.LG.resources
+C:\Users\donya\Downloads\NHBA_PBMC_T3_MétNúm (2)\NHBA_PBMC_T3_MétNúm\NHBA_PBMC_T3_MétNúm\obj\Debug\NHBA_PBMC_T3_MétNúm.MC.resources
+C:\Users\donya\Downloads\NHBA_PBMC_T3_MétNúm (2)\NHBA_PBMC_T3_MétNúm\NHBA_PBMC_T3_MétNúm\obj\Debug\NHBA_PBMC_T3_MétNúm.NR.resources
+C:\Users\donya\Downloads\NHBA_PBMC_T3_MétNúm (2)\NHBA_PBMC_T3_MétNúm\NHBA_PBMC_T3_MétNúm\obj\Debug\NHBA_PBMC_T3_MétNúm.Properties.Resources.resources
+C:\Users\donya\Downloads\NHBA_PBMC_T3_MétNúm (2)\NHBA_PBMC_T3_MétNúm\NHBA_PBMC_T3_MétNúm\obj\Debug\NHBA_PBMC_T3_MétNúm.RG.resources
+C:\Users\donya\Downloads\NHBA_PBMC_T3_MétNúm (2)\NHBA_PBMC_T3_MétNúm\NHBA_PBMC_T3_MétNúm\obj\Debug\NHBA_PBMC_T3_MétNúm.csproj.GenerateResource.cache
+C:\Users\donya\Downloads\NHBA_PBMC_T3_MétNúm (2)\NHBA_PBMC_T3_MétNúm\NHBA_PBMC_T3_MétNúm\obj\Debug\NHBA_PBMC_T3_MétNúm.csproj.CoreCompileInputs.cache
+C:\Users\Cecilia\Desktop\NHBA_PBMC_T3_MétNúm\NHBA_PBMC_T3_MétNúm\NHBA_PBMC_T3_MétNúm\bin\Debug\NHBA_PBMC_T3_MétNúm.exe.config
+C:\Users\Cecilia\Desktop\NHBA_PBMC_T3_MétNúm\NHBA_PBMC_T3_MétNúm\NHBA_PBMC_T3_MétNúm\bin\Debug\NHBA_PBMC_T3_MétNúm.exe
+C:\Users\Cecilia\Desktop\NHBA_PBMC_T3_MétNúm\NHBA_PBMC_T3_MétNúm\NHBA_PBMC_T3_MétNúm\bin\Debug\NHBA_PBMC_T3_MétNúm.pdb
+C:\Users\Cecilia\Desktop\NHBA_PBMC_T3_MétNúm\NHBA_PBMC_T3_MétNúm\NHBA_PBMC_T3_MétNúm\obj\Debug\NHBA_PBMC_T3_MétNúm.csproj.AssemblyReference.cache
+C:\Users\Cecilia\Desktop\NHBA_PBMC_T3_MétNúm\NHBA_PBMC_T3_MétNúm\NHBA_PBMC_T3_MétNúm\obj\Debug\NHBA_PBMC_T3_MétNúm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cecilia\Desktop\NHBA_PBMC_T3_MétNúm\NHBA_PBMC_T3_MétNúm\NHBA_PBMC_T3_MétNúm\obj\Debug\NHBA_PBMC_T3_MétNúm.BS.resources
+C:\Users\Cecilia\Desktop\NHBA_PBMC_T3_MétNúm\NHBA_PBMC_T3_MétNúm\NHBA_PBMC_T3_MétNúm\obj\Debug\NHBA_PBMC_T3_MétNúm.LG.resources
+C:\Users\Cecilia\Desktop\NHBA_PBMC_T3_MétNúm\NHBA_PBMC_T3_MétNúm\NHBA_PBMC_T3_MétNúm\obj\Debug\NHBA_PBMC_T3_MétNúm.MC.resources
+C:\Users\Cecilia\Desktop\NHBA_PBMC_T3_MétNúm\NHBA_PBMC_T3_MétNúm\NHBA_PBMC_T3_MétNúm\obj\Debug\NHBA_PBMC_T3_MétNúm.NR.resources
+C:\Users\Cecilia\Desktop\NHBA_PBMC_T3_MétNúm\NHBA_PBMC_T3_MétNúm\NHBA_PBMC_T3_MétNúm\obj\Debug\NHBA_PBMC_T3_MétNúm.Properties.Resources.resources
+C:\Users\Cecilia\Desktop\NHBA_PBMC_T3_MétNúm\NHBA_PBMC_T3_MétNúm\NHBA_PBMC_T3_MétNúm\obj\Debug\NHBA_PBMC_T3_MétNúm.RG.resources
+C:\Users\Cecilia\Desktop\NHBA_PBMC_T3_MétNúm\NHBA_PBMC_T3_MétNúm\NHBA_PBMC_T3_MétNúm\obj\Debug\NHBA_PBMC_T3_MétNúm.csproj.GenerateResource.cache
+C:\Users\Cecilia\Desktop\NHBA_PBMC_T3_MétNúm\NHBA_PBMC_T3_MétNúm\NHBA_PBMC_T3_MétNúm\obj\Debug\NHBA_PBMC_T3_MétNúm.csproj.CoreCompileInputs.cache
+C:\Users\Cecilia\Desktop\NHBA_PBMC_T3_MétNúm\NHBA_PBMC_T3_MétNúm\NHBA_PBMC_T3_MétNúm\obj\Debug\NHBA_PBMC_T3_MétNúm.exe
+C:\Users\Cecilia\Desktop\NHBA_PBMC_T3_MétNúm\NHBA_PBMC_T3_MétNúm\NHBA_PBMC_T3_MétNúm\obj\Debug\NHBA_PBMC_T3_MétNúm.pdb
